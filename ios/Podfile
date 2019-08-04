@@ -6,6 +6,7 @@ target 'BCAutoFillExtension' do
   use_frameworks!
 
   # Pods for BCAutoFillExtension
+  pod 'AppAuth', '0.95.0'
 
 end
 
